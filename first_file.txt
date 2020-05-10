@@ -1,2 +1,3 @@
 this is my test file.
 I’m adding some new text
+New Test Line
